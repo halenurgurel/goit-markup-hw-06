@@ -528,6 +528,7 @@ body {
   width: 288px;
   height: 40px;
   margin-top: 16px;
+  color: #fff;
 }
 
 .form-input::placeholder {
